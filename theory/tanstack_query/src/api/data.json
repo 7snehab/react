@@ -1,0 +1,15 @@
+{
+  "todos": [
+    {
+      "id": "4",
+      "title": "try invalidateQueries",
+      "done": true
+    },
+    {
+      "id": "5",
+      "title": "try optimistic updates",
+      "done": false
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
